@@ -1,2 +1,2 @@
 # RPG
-RPG game created in Unity3D, C# and SQL
+Scripts for the RPG game (in progress) made in Unity3D, using C#, JavaScript and SQL programming languages
